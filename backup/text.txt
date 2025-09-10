@@ -1,0 +1,686 @@
+2021-02-25 07:03:50, 2021-02-25 07:06:22, label_0: The duration is 2 minutes 32 seconds
+2021-02-25 07:06:06, 2021-02-25 07:08:00, label_1: The duration is 1 minutes 54 seconds
+2021-02-25 06:54:39, 2021-02-25 07:06:06, label_2: The duration is 11 minutes 27 seconds
+2021-02-25 07:06:35, 2021-02-25 07:07:21, label_0: The duration is 46 seconds
+2021-02-25 07:07:35, 2021-02-25 07:12:30, label_0: The duration is 4 minutes 55 seconds
+2021-02-25 07:09:51, 2021-02-25 07:10:10, label_3: The duration is 19 seconds
+2021-02-25 07:10:10, 2021-02-25 07:11:33, label_3: The duration is 1 minutes 23 seconds
+2021-02-25 07:12:30, 2021-02-25 07:18:43, label_3: The duration is 6 minutes 13 seconds
+2021-02-25 07:13:56, 2021-02-25 07:18:34, label_0: The duration is 4 minutes 38 seconds
+2021-02-25 07:08:00, 2021-02-25 07:14:33, label_2: The duration is 6 minutes 33 seconds
+2021-02-25 07:14:33, 2021-02-25 07:14:43, label_1: The duration is 10 seconds
+2021-02-25 07:14:43, 2021-02-25 07:15:08, label_4: The duration is 25 seconds
+2021-02-25 07:15:08, 2021-02-25 07:15:25, label_1: The duration is 17 seconds
+2021-02-25 07:15:25, 2021-02-25 07:16:16, label_4: The duration is 51 seconds
+2021-02-25 07:16:16, 2021-02-25 07:16:37, label_2: The duration is 21 seconds
+2021-02-25 07:16:37, 2021-02-25 07:17:05, label_4: The duration is 28 seconds
+2021-02-25 07:17:05, 2021-02-25 07:18:06, label_2: The duration is 1 minutes 1 seconds
+2021-02-25 07:18:08, 2021-02-25 07:19:04, label_4: The duration is 56 seconds
+2021-02-25 07:19:04, 2021-02-25 07:40:24, label_2: The duration is 21 minutes 20 seconds
+2021-02-25 07:16:43, 2021-02-25 07:22:08, label_3: The duration is 5 minutes 25 seconds
+2021-02-25 07:22:20, 2021-02-25 07:23:51, label_0: The duration is 1 minutes 31 seconds
+2021-02-25 07:44:52, 2021-02-25 07:45:00, label_5: The duration is 8 seconds
+2021-02-25 07:45:07, 2021-02-25 07:45:18, label_5: The duration is 11 seconds
+2021-02-25 07:45:07, 2021-02-25 07:45:18, label_5: The duration is 11 seconds
+2021-02-25 07:45:26, 2021-02-25 07:45:41, label_5: The duration is 15 seconds
+2021-02-25 07:45:46, 2021-02-25 07:45:55, label_5: The duration is 9 seconds
+2021-02-25 07:46:04, 2021-02-25 07:46:31, label_5: The duration is 27 seconds
+2021-02-25 07:46:36, 2021-02-25 07:46:45, label_1: The duration is 9 seconds
+2021-02-25 07:47:04, 2021-02-25 07:47:07, label_1: The duration is 3 seconds
+2021-02-25 07:46:51, 2021-02-25 07:47:02, label_5: The duration is 11 seconds
+2021-02-25 07:48:56, 2021-02-25 07:49:51, label_1: The duration is 55 seconds
+2021-02-25 07:47:17, 2021-02-25 07:47:27, label_1: The duration is 10 seconds
+2021-02-25 07:47:51, 2021-02-25 07:48:56, label_5: The duration is 1 minutes 5 seconds
+2021-02-25 07:49:12, 2021-02-25 07:49:49, label_1: The duration is 37 seconds
+2021-02-25 07:49:51, 2021-02-25 07:51:21, label_5: The duration is 1 minutes 30 seconds
+2021-02-25 07:50:41, 2021-02-25 07:51:05, label_2: The duration is 24 seconds
+2021-02-25 07:51:21, 2021-02-25 07:51:40, label_1: The duration is 19 seconds
+2021-02-25 07:51:40, 2021-02-25 07:53:56, label_5: The duration is 2 minutes 16 seconds
+2021-02-25 07:53:56, 2021-02-25 07:54:27, label_1: The duration is 31 seconds
+2021-02-25 07:55:09, 2021-02-25 07:56:06, label_5: The duration is 57 seconds
+2021-02-25 07:55:12, 2021-02-25 07:55:24, label_1: The duration is 12 seconds
+2021-02-25 07:55:55, 2021-02-25 07:56:11, label_1: The duration is 16 seconds
+2021-02-25 07:56:17, 2021-02-25 07:57:47, label_2: The duration is 1 minutes 30 seconds
+2021-02-25 07:57:00, 2021-02-25 08:06:00, label_5: The duration is 9 minutes 0 seconds
+2021-02-25 08:10:40, 2021-02-25 08:22:31, label_5: The duration is 11 minutes 51 seconds
+2021-02-25 08:11:56, 2021-02-25 08:12:22, label_1: The duration is 26 seconds
+2021-02-25 08:10:40, 2021-02-25 08:22:31, label_6: The duration is 11 minutes 51 seconds
+2021-02-25 08:41:06, 2021-02-25 08:41:13, label_1: The duration is 7 seconds
+2021-02-25 08:41:10, 2021-02-25 08:46:10, label_5: The duration is 5 minutes 0 seconds
+2021-02-25 08:46:18, 2021-02-25 08:53:40, label_2: The duration is 7 minutes 22 seconds
+2021-02-25 08:48:15, 2021-02-25 08:50:20, label_7: The duration is 2 minutes 5 seconds
+2021-02-25 08:50:25, 2021-02-25 08:50:43, label_7: The duration is 18 seconds
+2021-02-25 08:50:43, 2021-02-25 08:53:07, label_7: The duration is 2 minutes 24 seconds
+2021-02-25 08:53:10, 2021-02-25 08:53:13, label_7: The duration is 3 seconds
+2021-02-25 08:53:19, 2021-02-25 08:53:22, label_7: The duration is 3 seconds
+2021-02-25 08:53:59, 2021-02-25 08:55:27, label_7: The duration is 1 minutes 28 seconds
+2021-02-25 08:53:40, 2021-02-25 08:54:40, label_4: The duration is 1 minutes 0 seconds
+2021-02-25 08:54:40, 2021-02-25 09:10:20, label_2: The duration is 15 minutes 40 seconds
+2021-02-25 09:03:46, 2021-02-25 09:05:08, label_7: The duration is 1 minutes 22 seconds
+2021-02-25 09:13:00, 2021-02-25 09:21:29, label_6: The duration is 8 minutes 29 seconds
+2021-02-25 09:10:20, 2021-02-25 09:14:00, label_2: The duration is 3 minutes 40 seconds
+2021-02-25 09:14:00, 2021-02-25 09:15:00, label_5: The duration is 1 minutes 0 seconds
+2021-02-25 09:15:00, 2021-02-25 09:15:20, label_2: The duration is 20 seconds
+2021-02-25 09:15:20, 2021-02-25 09:21:29, label_5: The duration is 6 minutes 9 seconds
+2021-02-25 09:21:29, 2021-02-25 09:24:35, label_5: The duration is 3 minutes 6 seconds
+2021-02-25 09:24:35, 2021-02-25 09:25:00, label_4: The duration is 25 seconds
+2021-02-25 09:25:00, 2021-02-25 09:26:21, label_2: The duration is 1 minutes 21 seconds
+2021-02-25 09:24:45, 2021-02-25 09:26:20, label_7: The duration is 1 minutes 35 seconds
+2021-02-25 09:26:26, 2021-02-25 09:26:38, label_5: The duration is 12 seconds
+2021-02-25 09:27:09, 2021-02-25 09:27:34, label_5: The duration is 25 seconds
+2021-02-25 09:28:05, 2021-02-25 09:28:35, label_7: The duration is 30 seconds
+2021-02-25 09:28:40, 2021-02-25 09:29:00, label_5: The duration is 20 seconds
+2021-02-25 09:29:01, 2021-02-25 09:30:52, label_7: The duration is 1 minutes 51 seconds
+2021-02-25 09:32:00, 2021-02-25 09:32:18, label_5: The duration is 18 seconds
+2021-02-25 09:32:57, 2021-02-25 09:33:11, label_5: The duration is 14 seconds
+2021-02-25 09:33:40, 2021-02-25 09:34:18, label_5: The duration is 38 seconds
+2021-02-25 09:34:35, 2021-02-25 09:34:53, label_5: The duration is 18 seconds
+2021-02-25 09:34:58, 2021-02-25 09:35:10, label_5: The duration is 12 seconds
+2021-02-25 09:35:34, 2021-02-25 09:35:54, label_5: The duration is 20 seconds
+2021-02-25 09:35:55, 2021-02-25 09:36:10, label_5: The duration is 15 seconds
+2021-02-25 09:36:10, 2021-02-25 09:36:53, label_4: The duration is 43 seconds
+2021-02-25 09:36:53, 2021-02-25 09:37:00, label_1: The duration is 7 seconds
+2021-02-25 09:37:10, 2021-02-25 09:40:47, label_2: The duration is 3 minutes 37 seconds
+2021-02-25 09:36:12, 2021-02-25 09:38:12, label_7: The duration is 2 minutes 0 seconds
+2021-02-25 09:38:41, 2021-02-25 09:39:23, label_7: The duration is 42 seconds
+2021-02-25 09:39:41, 2021-02-25 09:40:50, label_7: The duration is 1 minutes 9 seconds
+2021-02-25 09:40:57, 2021-02-25 09:41:31, label_5: The duration is 34 seconds
+2021-02-25 09:41:44, 2021-02-25 09:43:24, label_7: The duration is 1 minutes 40 seconds
+2021-02-25 09:53:47, 2021-02-25 09:54:04, label_5: The duration is 17 seconds
+2021-02-25 09:52:51, 2021-02-25 09:53:47, label_4: The duration is 56 seconds
+2021-02-25 09:41:42, 2021-02-25 09:52:51, label_2: The duration is 11 minutes 9 seconds
+2021-02-25 09:54:28, 2021-02-25 09:54:38, label_5: The duration is 10 seconds
+2021-02-25 09:54:38, 2021-02-25 09:56:18, label_4: The duration is 1 minutes 40 seconds
+2021-02-25 09:55:18, 2021-02-25 09:56:01, label_7: The duration is 43 seconds
+2021-02-25 09:56:18, 2021-02-25 09:56:52, label_5: The duration is 34 seconds
+2021-02-25 09:56:52, 2021-02-25 09:57:17, label_4: The duration is 25 seconds
+2021-02-25 09:57:17, 2021-02-25 09:57:36, label_5: The duration is 19 seconds
+2021-02-25 09:57:36, 2021-02-25 09:58:00, label_4: The duration is 24 seconds
+2021-02-25 09:58:00, 2021-02-25 09:58:14, label_5: The duration is 14 seconds
+2021-02-25 09:58:14, 2021-02-25 09:58:41, label_4: The duration is 27 seconds
+2021-02-25 09:58:41, 2021-02-25 09:58:57, label_5: The duration is 16 seconds
+2021-02-25 09:59:14, 2021-02-25 09:59:33, label_4: The duration is 19 seconds
+2021-02-25 09:59:33, 2021-02-25 09:59:48, label_2: The duration is 15 seconds
+2021-02-25 09:59:48, 2021-02-25 10:00:00, label_4: The duration is 12 seconds
+2021-02-25 09:59:01, 2021-02-25 10:00:55, label_7: The duration is 1 minutes 54 seconds
+2021-02-25 10:01:40, 2021-02-25 10:03:12, label_7: The duration is 1 minutes 32 seconds
+2021-02-25 10:00:00, 2021-02-25 10:01:02, label_2: The duration is 1 minutes 2 seconds
+2021-02-25 10:01:02, 2021-02-25 10:01:24, label_4: The duration is 22 seconds
+2021-02-25 10:01:24, 2021-02-25 10:02:47, label_2: The duration is 1 minutes 23 seconds
+2021-02-25 10:02:47, 2021-02-25 10:03:00, label_1: The duration is 13 seconds
+2021-02-25 10:04:10, 2021-02-25 10:04:56, label_2: The duration is 46 seconds
+2021-02-25 10:04:56, 2021-02-25 10:05:11, label_1: The duration is 15 seconds
+2021-02-25 10:05:30, 2021-02-25 10:05:58, label_5: The duration is 28 seconds
+2021-02-25 10:05:58, 2021-02-25 10:06:23, label_4: The duration is 25 seconds
+2021-02-25 10:06:23, 2021-02-25 10:06:43, label_5: The duration is 20 seconds
+2021-02-25 10:06:43, 2021-02-25 10:07:20, label_4: The duration is 37 seconds
+2021-02-25 10:07:20, 2021-02-25 10:07:35, label_5: The duration is 15 seconds
+2021-02-25 10:07:35, 2021-02-25 10:08:02, label_4: The duration is 27 seconds
+2021-02-25 10:08:02, 2021-02-25 10:08:23, label_5: The duration is 21 seconds
+2021-02-25 10:08:23, 2021-02-25 10:08:46, label_4: The duration is 23 seconds
+2021-02-25 10:08:46, 2021-02-25 10:09:11, label_5: The duration is 25 seconds
+2021-02-25 10:09:11, 2021-02-25 10:09:34, label_4: The duration is 23 seconds
+2021-02-25 10:09:34, 2021-02-25 10:09:54, label_5: The duration is 20 seconds
+2021-02-25 10:09:54, 2021-02-25 10:10:22, label_4: The duration is 28 seconds
+2021-02-25 10:10:22, 2021-02-25 10:10:49, label_5: The duration is 27 seconds
+2021-02-25 10:10:49, 2021-02-25 10:11:22, label_4: The duration is 33 seconds
+2021-02-25 10:11:22, 2021-02-25 10:13:59, label_2: The duration is 2 minutes 37 seconds
+2021-02-25 10:14:20, 2021-02-25 10:17:18, label_4: The duration is 2 minutes 58 seconds
+2021-02-25 10:30:07, 2021-02-25 10:30:13, label_1: The duration is 6 seconds
+2021-02-25 10:30:20, 2021-02-25 10:38:59, label_2: The duration is 8 minutes 39 seconds
+2021-02-25 10:31:11, 2021-02-25 10:33:15, label_0: The duration is 2 minutes 4 seconds
+2021-02-25 10:33:24, 2021-02-25 10:33:35, label_0: The duration is 11 seconds
+2021-02-25 10:33:39, 2021-02-25 10:38:25, label_0: The duration is 4 minutes 46 seconds
+2021-02-25 10:39:03, 2021-02-25 10:39:16, label_1: The duration is 13 seconds
+2021-02-25 10:40:50, 2021-02-25 10:40:59, label_1: The duration is 9 seconds
+2021-02-25 10:42:39, 2021-02-25 10:55:21, label_2: The duration is 12 minutes 42 seconds
+2021-02-25 10:55:55, 2021-02-25 10:56:25, label_4: The duration is 30 seconds
+2021-02-25 10:56:25, 2021-02-25 10:56:50, label_4: The duration is 25 seconds
+2021-02-25 10:58:35, 2021-02-25 10:58:47, label_1: The duration is 12 seconds
+2021-02-25 11:37:40, 2021-02-25 11:44:03, label_2: The duration is 6 minutes 23 seconds
+2021-02-25 11:44:35, 2021-02-25 11:44:54, label_5: The duration is 19 seconds
+2021-02-25 11:44:54, 2021-02-25 11:45:10, label_4: The duration is 16 seconds
+2021-02-25 11:45:10, 2021-02-25 11:45:35, label_5: The duration is 25 seconds
+2021-02-25 11:45:35, 2021-02-25 11:45:50, label_4: The duration is 15 seconds
+2021-02-25 11:45:50, 2021-02-25 11:46:00, label_5: The duration is 10 seconds
+2021-02-25 11:46:00, 2021-02-25 11:46:35, label_4: The duration is 35 seconds
+2021-02-25 11:46:35, 2021-02-25 11:47:01, label_5: The duration is 26 seconds
+2021-02-25 11:47:01, 2021-02-25 11:47:16, label_4: The duration is 15 seconds
+2021-02-25 11:47:16, 2021-02-25 11:48:07, label_5: The duration is 51 seconds
+2021-02-25 11:48:07, 2021-02-25 11:48:22, label_4: The duration is 15 seconds
+2021-02-25 11:48:22, 2021-02-25 11:48:57, label_5: The duration is 35 seconds
+2021-02-25 11:48:57, 2021-02-25 11:49:22, label_4: The duration is 25 seconds
+2021-02-25 11:49:22, 2021-02-25 11:49:32, label_5: The duration is 10 seconds
+2021-02-25 11:49:02, 2021-02-25 11:49:07, label_7: The duration is 5 seconds
+2021-02-25 11:49:02, 2021-02-25 11:49:50, label_4: The duration is 48 seconds
+2021-02-25 11:49:50, 2021-02-25 11:50:30, label_5: The duration is 40 seconds
+2021-02-25 11:50:45, 2021-02-25 11:53:41, label_7: The duration is 2 minutes 56 seconds
+2021-02-25 11:51:14, 2021-02-25 11:51:23, label_1: The duration is 9 seconds
+2021-02-25 11:52:20, 2021-02-25 11:52:31, label_1: The duration is 11 seconds
+2021-02-25 11:53:19, 2021-02-25 11:53:39, label_1: The duration is 20 seconds
+2021-02-25 11:53:54, 2021-02-25 11:54:03, label_5: The duration is 9 seconds
+2021-02-25 11:54:43, 2021-02-25 11:57:25, label_2: The duration is 2 minutes 42 seconds
+2021-02-25 11:54:12, 2021-02-25 11:54:39, label_7: The duration is 27 seconds
+2021-02-25 11:57:33, 2021-02-25 11:57:58, label_5: The duration is 25 seconds
+2021-02-25 11:57:58, 2021-02-25 11:58:44, label_4: The duration is 46 seconds
+2021-02-25 11:58:44, 2021-02-25 11:59:00, label_5: The duration is 16 seconds
+2021-02-25 11:59:00, 2021-02-25 11:59:35, label_4: The duration is 35 seconds
+2021-02-25 11:59:14, 2021-02-25 11:59:30, label_7: The duration is 16 seconds
+2021-02-25 11:59:35, 2021-02-25 12:00:30, label_5: The duration is 55 seconds
+2021-02-25 12:00:34, 2021-02-25 12:00:53, label_7: The duration is 19 seconds
+2021-02-25 12:00:30, 2021-02-25 12:01:21, label_4: The duration is 51 seconds
+2021-02-25 12:01:21, 2021-02-25 12:02:51, label_5: The duration is 1 minutes 30 seconds
+2021-02-25 12:02:51, 2021-02-25 12:03:20, label_4: The duration is 29 seconds
+2021-02-25 12:03:37, 2021-02-25 12:04:18, label_4: The duration is 41 seconds
+2021-02-25 12:03:20, 2021-02-25 12:05:38, label_5: The duration is 2 minutes 18 seconds
+2021-02-25 12:04:55, 2021-02-25 12:05:10, label_7: The duration is 15 seconds
+2021-02-25 12:05:38, 2021-02-25 12:05:55, label_5: The duration is 17 seconds
+2021-02-25 12:06:05, 2021-02-25 12:06:29, label_7: The duration is 24 seconds
+2021-02-25 12:05:55, 2021-02-25 12:07:08, label_4: The duration is 1 minutes 13 seconds
+2021-02-25 12:07:08, 2021-02-25 12:07:29, label_5: The duration is 21 seconds
+2021-02-25 12:07:31, 2021-02-25 12:08:00, label_7: The duration is 29 seconds
+2021-02-25 12:07:29, 2021-02-25 12:08:15, label_4: The duration is 46 seconds
+2021-02-25 12:08:15, 2021-02-25 12:08:25, label_5: The duration is 10 seconds
+2021-02-25 12:08:25, 2021-02-25 12:09:28, label_4: The duration is 1 minutes 3 seconds
+2021-02-25 12:08:57, 2021-02-25 12:09:25, label_7: The duration is 28 seconds
+2021-02-25 12:09:28, 2021-02-25 12:09:38, label_5: The duration is 10 seconds
+2021-02-25 12:09:38, 2021-02-25 12:10:18, label_4: The duration is 40 seconds
+2021-02-25 12:09:47, 2021-02-25 12:10:05, label_7: The duration is 18 seconds
+2021-02-25 12:10:18, 2021-02-25 12:10:34, label_5: The duration is 16 seconds
+2021-02-25 12:10:34, 2021-02-25 12:11:06, label_4: The duration is 32 seconds
+2021-02-25 12:10:43, 2021-02-25 12:11:03, label_7: The duration is 20 seconds
+2021-02-25 12:11:06, 2021-02-25 12:12:06, label_5: The duration is 1 minutes 0 seconds
+2021-02-25 12:12:48, 2021-02-25 12:16:13, label_2: The duration is 3 minutes 25 seconds
+2021-02-25 12:12:27, 2021-02-25 12:16:10, label_7: The duration is 3 minutes 43 seconds
+2021-02-25 12:16:33, 2021-02-25 12:18:20, label_5: The duration is 1 minutes 47 seconds
+2021-02-25 12:18:41, 2021-02-25 12:19:07, label_5: The duration is 26 seconds
+2021-02-25 12:19:20, 2021-02-25 12:20:50, label_2: The duration is 1 minutes 30 seconds
+2021-02-25 12:20:02, 2021-02-25 12:20:28, label_5: The duration is 26 seconds
+2021-02-25 12:20:59, 2021-02-25 12:21:09, label_5: The duration is 10 seconds
+2021-02-25 12:25:12, 2021-02-25 12:25:38, label_2: The duration is 26 seconds
+2021-02-25 12:25:50, 2021-02-25 12:26:11, label_2: The duration is 21 seconds
+2021-02-25 12:26:23, 2021-02-25 12:26:57, label_2: The duration is 34 seconds
+2021-02-25 12:25:17, 2021-02-25 12:26:02, label_7: The duration is 45 seconds
+2021-02-25 12:30:45, 2021-02-25 12:31:04, label_2: The duration is 19 seconds
+2021-02-25 12:32:16, 2021-02-25 12:34:50, label_4: The duration is 2 minutes 34 seconds
+2021-02-25 12:38:37, 2021-02-25 12:38:44, label_1: The duration is 7 seconds
+2021-02-25 12:39:20, 2021-02-25 12:40:18, label_2: The duration is 58 seconds
+2021-02-25 12:40:37, 2021-02-25 12:40:47, label_1: The duration is 10 seconds
+2021-02-25 12:41:14, 2021-02-25 12:41:38, label_5: The duration is 24 seconds
+2021-02-25 12:42:54, 2021-02-25 12:43:23, label_5: The duration is 29 seconds
+2021-02-25 12:43:57, 2021-02-25 12:45:50, label_2: The duration is 1 minutes 53 seconds
+2021-02-25 12:44:42, 2021-02-25 12:58:50, label_8: The duration is 14 minutes 8 seconds
+2021-02-25 12:45:54, 2021-02-25 12:46:22, label_4: The duration is 28 seconds
+2021-02-25 12:46:22, 2021-02-25 12:46:38, label_5: The duration is 16 seconds
+2021-02-25 12:46:38, 2021-02-25 12:47:22, label_4: The duration is 44 seconds
+2021-02-25 12:48:09, 2021-02-25 12:50:45, label_2: The duration is 2 minutes 36 seconds
+2021-02-25 12:47:22, 2021-02-25 12:47:40, label_5: The duration is 18 seconds
+2021-02-25 12:47:40, 2021-02-25 12:51:14, label_4: The duration is 3 minutes 34 seconds
+2021-02-25 12:51:14, 2021-02-25 12:51:34, label_5: The duration is 20 seconds
+2021-02-25 12:51:34, 2021-02-25 12:52:50, label_4: The duration is 1 minutes 16 seconds
+2021-02-25 12:52:50, 2021-02-25 12:53:04, label_5: The duration is 14 seconds
+2021-02-25 12:53:04, 2021-02-25 12:53:45, label_4: The duration is 41 seconds
+2021-02-25 12:53:45, 2021-02-25 12:56:03, label_2: The duration is 2 minutes 18 seconds
+2021-02-25 12:56:03, 2021-02-25 12:56:27, label_4: The duration is 24 seconds
+2021-02-25 12:56:27, 2021-02-25 12:56:39, label_5: The duration is 12 seconds
+2021-02-25 12:56:39, 2021-02-25 12:58:12, label_4: The duration is 1 minutes 33 seconds
+2021-02-25 12:58:12, 2021-02-25 12:58:20, label_5: The duration is 8 seconds
+2021-02-25 12:59:25, 2021-02-25 12:59:33, label_2: The duration is 8 seconds
+2021-02-25 12:59:43, 2021-02-25 12:59:56, label_5: The duration is 13 seconds
+2021-02-25 13:02:27, 2021-02-25 13:02:50, label_2: The duration is 23 seconds
+2021-02-25 13:02:33, 2021-02-25 13:11:33, label_9: The duration is 9 minutes 0 seconds
+2021-02-25 13:02:50, 2021-02-25 13:03:00, label_4: The duration is 10 seconds
+2021-02-25 13:03:00, 2021-02-25 13:03:14, label_5: The duration is 14 seconds
+2021-02-25 13:03:14, 2021-02-25 13:03:52, label_4: The duration is 38 seconds
+2021-02-25 13:03:10, 2021-02-25 13:03:20, label_10: The duration is 10 seconds
+2021-02-25 13:03:26, 2021-02-25 13:03:33, label_10: The duration is 7 seconds
+2021-02-25 13:03:41, 2021-02-25 13:03:46, label_10: The duration is 5 seconds
+2021-02-25 13:03:55, 2021-02-25 13:04:13, label_10: The duration is 18 seconds
+2021-02-25 13:04:23, 2021-02-25 13:04:34, label_10: The duration is 11 seconds
+2021-02-25 13:03:52, 2021-02-25 13:07:23, label_4: The duration is 3 minutes 31 seconds
+2021-02-25 13:07:23, 2021-02-25 13:07:36, label_2: The duration is 13 seconds
+2021-02-25 13:07:36, 2021-02-25 13:09:55, label_4: The duration is 2 minutes 19 seconds
+2021-02-25 13:04:42, 2021-02-25 13:04:50, label_10: The duration is 8 seconds
+2021-02-25 13:04:55, 2021-02-25 13:05:00, label_10: The duration is 5 seconds
+2021-02-25 13:05:05, 2021-02-25 13:05:11, label_10: The duration is 6 seconds
+2021-02-25 13:05:20, 2021-02-25 13:05:46, label_10: The duration is 26 seconds
+2021-02-25 13:05:55, 2021-02-25 13:06:06, label_10: The duration is 11 seconds
+2021-02-25 13:06:12, 2021-02-25 13:06:17, label_10: The duration is 5 seconds
+2021-02-25 13:06:22, 2021-02-25 13:06:39, label_10: The duration is 17 seconds
+2021-02-25 13:06:44, 2021-02-25 13:07:00, label_10: The duration is 16 seconds
+2021-02-25 13:08:40, 2021-02-25 13:10:10, label_10: The duration is 1 minutes 30 seconds
+2021-02-25 13:07:12, 2021-02-25 13:07:45, label_10: The duration is 33 seconds
+2021-02-25 13:09:55, 2021-02-25 13:10:54, label_4: The duration is 59 seconds
+2021-02-25 13:10:54, 2021-02-25 13:11:11, label_2: The duration is 17 seconds
+2021-02-25 13:11:11, 2021-02-25 13:11:56, label_4: The duration is 45 seconds
+2021-02-25 13:11:56, 2021-02-25 13:12:13, label_2: The duration is 17 seconds
+2021-02-25 13:11:56, 2021-02-25 13:13:39, label_4: The duration is 1 minutes 43 seconds
+2021-02-25 13:13:39, 2021-02-25 13:16:36, label_2: The duration is 2 minutes 57 seconds
+2021-02-25 13:10:36, 2021-02-25 13:10:55, label_10: The duration is 19 seconds
+2021-02-25 13:12:00, 2021-02-25 13:32:00, label_9: The duration is 20 minutes 0 seconds
+2021-02-25 13:16:36, 2021-02-25 13:16:56, label_4: The duration is 20 seconds
+2021-02-25 13:16:56, 2021-02-25 13:18:30, label_2: The duration is 1 minutes 34 seconds
+2021-02-25 13:18:30, 2021-02-25 13:18:52, label_4: The duration is 22 seconds
+2021-02-25 13:18:52, 2021-02-25 13:23:50, label_2: The duration is 4 minutes 58 seconds
+2021-02-25 13:23:50, 2021-02-25 13:24:13, label_4: The duration is 23 seconds
+2021-02-25 13:24:13, 2021-02-25 13:24:23, label_2: The duration is 10 seconds
+2021-02-25 13:24:23, 2021-02-25 13:24:36, label_4: The duration is 13 seconds
+2021-02-25 13:24:36, 2021-02-25 13:25:00, label_2: The duration is 24 seconds
+2021-02-25 13:25:00, 2021-02-25 13:25:45, label_4: The duration is 45 seconds
+2021-02-25 13:25:45, 2021-02-25 13:26:17, label_2: The duration is 32 seconds
+2021-02-25 13:26:17, 2021-02-25 13:26:30, label_4: The duration is 13 seconds
+2021-02-25 13:26:30, 2021-02-25 13:26:46, label_2: The duration is 16 seconds
+2021-02-25 13:26:46, 2021-02-25 13:27:03, label_4: The duration is 17 seconds
+2021-02-25 13:27:03, 2021-02-25 13:27:14, label_2: The duration is 11 seconds
+2021-02-25 13:27:14, 2021-02-25 13:27:36, label_4: The duration is 22 seconds
+2021-02-25 13:27:36, 2021-02-25 13:28:07, label_2: The duration is 31 seconds
+2021-02-25 13:28:07, 2021-02-25 13:28:34, label_4: The duration is 27 seconds
+2021-02-25 13:28:34, 2021-02-25 13:28:50, label_2: The duration is 16 seconds
+2021-02-25 13:28:50, 2021-02-25 13:30:10, label_4: The duration is 1 minutes 20 seconds
+2021-02-25 13:30:10, 2021-02-25 13:30:30, label_2: The duration is 20 seconds
+2021-02-25 13:30:30, 2021-02-25 13:31:21, label_4: The duration is 51 seconds
+2021-02-25 13:31:21, 2021-02-25 13:31:50, label_2: The duration is 29 seconds
+2021-02-25 13:31:50, 2021-02-25 13:32:07, label_4: The duration is 17 seconds
+2021-02-25 13:25:00, 2021-02-25 13:25:30, label_10: The duration is 30 seconds
+2021-02-25 13:26:00, 2021-02-25 13:27:00, label_10: The duration is 1 minutes 0 seconds
+2021-02-25 13:32:07, 2021-02-25 13:32:11, label_1: The duration is 4 seconds
+2021-02-25 13:32:11, 2021-02-25 13:33:10, label_4: The duration is 59 seconds
+2021-02-25 13:33:10, 2021-02-25 13:34:08, label_2: The duration is 58 seconds
+2021-02-25 13:34:08, 2021-02-25 13:34:32, label_4: The duration is 24 seconds
+2021-02-25 13:34:32, 2021-02-25 13:35:06, label_2: The duration is 34 seconds
+2021-02-25 13:35:06, 2021-02-25 13:36:11, label_4: The duration is 1 minutes 5 seconds
+2021-02-25 13:37:10, 2021-02-25 13:37:22, label_2: The duration is 12 seconds
+2021-02-25 13:32:20, 2021-02-25 14:13:39, label_8: The duration is 41 minutes 19 seconds
+2021-02-25 13:32:55, 2021-02-25 13:36:02, label_11: The duration is 3 minutes 7 seconds
+2021-02-25 13:36:25, 2021-02-25 13:36:36, label_11: The duration is 11 seconds
+2021-02-25 13:36:11, 2021-02-25 13:36:19, label_1: The duration is 8 seconds
+2021-02-25 13:36:19, 2021-02-25 13:36:36, label_4: The duration is 17 seconds
+2021-02-25 13:36:36, 2021-02-25 13:36:42, label_5: The duration is 6 seconds
+2021-02-25 13:36:42, 2021-02-25 13:37:10, label_4: The duration is 28 seconds
+2021-02-25 13:37:22, 2021-02-25 13:37:45, label_4: The duration is 23 seconds
+2021-02-25 13:37:10, 2021-02-25 13:37:30, label_11: The duration is 20 seconds
+2021-02-25 13:37:45, 2021-02-25 13:40:50, label_11: The duration is 3 minutes 5 seconds
+2021-02-25 13:37:45, 2021-02-25 13:37:55, label_5: The duration is 10 seconds
+2021-02-25 13:37:55, 2021-02-25 13:38:20, label_4: The duration is 25 seconds
+2021-02-25 13:38:20, 2021-02-25 13:38:45, label_5: The duration is 25 seconds
+2021-02-25 13:38:45, 2021-02-25 13:39:20, label_4: The duration is 35 seconds
+2021-02-25 13:39:20, 2021-02-25 13:39:40, label_5: The duration is 20 seconds
+2021-02-25 13:39:40, 2021-02-25 13:40:30, label_4: The duration is 50 seconds
+2021-02-25 13:40:30, 2021-02-25 13:42:00, label_4: The duration is 1 minutes 30 seconds
+2021-02-25 13:42:00, 2021-02-25 13:42:20, label_5: The duration is 20 seconds
+2021-02-25 13:42:20, 2021-02-25 13:43:00, label_4: The duration is 40 seconds
+2021-02-25 13:43:00, 2021-02-25 13:43:47, label_2: The duration is 47 seconds
+2021-02-25 13:43:47, 2021-02-25 13:45:07, label_4: The duration is 1 minutes 20 seconds
+2021-02-25 13:41:10, 2021-02-25 13:42:20, label_11: The duration is 1 minutes 10 seconds
+2021-02-25 13:45:07, 2021-02-25 13:45:12, label_1: The duration is 5 seconds
+2021-02-25 13:45:12, 2021-02-25 13:45:46, label_4: The duration is 34 seconds
+2021-02-25 13:45:46, 2021-02-25 13:45:50, label_1: The duration is 4 seconds
+2021-02-25 13:42:20, 2021-02-25 13:45:55, label_11: The duration is 3 minutes 35 seconds
+2021-02-25 13:45:50, 2021-02-25 13:46:58, label_4: The duration is 1 minutes 8 seconds
+2021-02-25 13:46:58, 2021-02-25 13:56:52, label_2: The duration is 9 minutes 54 seconds
+2021-02-25 13:55:52, 2021-02-25 13:56:06, label_4: The duration is 14 seconds
+2021-02-25 13:56:06, 2021-02-25 14:04:14, label_2: The duration is 8 minutes 8 seconds
+2021-02-25 14:04:14, 2021-02-25 14:05:17, label_4: The duration is 1 minutes 3 seconds
+2021-02-25 14:05:17, 2021-02-25 14:06:53, label_2: The duration is 1 minutes 36 seconds
+2021-02-25 14:06:53, 2021-02-25 14:07:15, label_4: The duration is 22 seconds
+2021-02-25 14:07:15, 2021-02-25 14:08:56, label_2: The duration is 1 minutes 41 seconds
+2021-02-25 14:08:56, 2021-02-25 14:09:17, label_4: The duration is 21 seconds
+2021-02-25 14:09:17, 2021-02-25 14:10:00, label_2: The duration is 43 seconds
+2021-02-25 14:10:00, 2021-02-25 14:11:32, label_4: The duration is 1 minutes 32 seconds
+2021-02-25 14:11:32, 2021-02-25 14:23:17, label_2: The duration is 11 minutes 45 seconds
+2021-02-25 14:23:17, 2021-02-25 14:24:13, label_4: The duration is 56 seconds
+2021-02-25 14:24:13, 2021-02-25 14:24:52, label_2: The duration is 39 seconds
+2021-02-25 14:24:52, 2021-02-25 14:23:35, label_4: The duration is -77 seconds
+2021-02-25 13:45:55, 2021-02-25 13:46:45, label_11: The duration is 50 seconds
+2021-02-25 13:46:45, 2021-02-25 13:51:10, label_11: The duration is 4 minutes 25 seconds
+2021-02-25 13:51:44, 2021-02-25 13:52:44, label_7: The duration is 1 minutes 0 seconds
+2021-02-25 13:52:44, 2021-02-25 13:53:36, label_11: The duration is 52 seconds
+2021-02-25 13:52:44, 2021-02-25 13:53:36, label_7: The duration is 52 seconds
+2021-02-25 13:53:36, 2021-02-25 13:57:00, label_11: The duration is 3 minutes 24 seconds
+2021-02-25 14:02:00, 2021-02-25 14:13:37, label_10: The duration is 11 minutes 37 seconds
+2021-02-25 14:13:37, 2021-02-25 14:14:30, label_10: The duration is 53 seconds
+2021-02-25 14:14:30, 2021-02-25 14:16:20, label_7: The duration is 1 minutes 50 seconds
+2021-02-25 14:16:30, 2021-02-25 14:16:55, label_7: The duration is 25 seconds
+2021-02-25 14:17:20, 2021-02-25 14:18:11, label_10: The duration is 51 seconds
+2021-02-25 14:18:24, 2021-02-25 14:18:47, label_10: The duration is 23 seconds
+2021-02-25 14:19:15, 2021-02-25 14:22:30, label_7: The duration is 3 minutes 15 seconds
+2021-02-25 14:22:30, 2021-02-25 14:22:50, label_7: The duration is 20 seconds
+2021-02-25 14:02:00, 2021-02-25 14:23:15, label_9: The duration is 21 minutes 15 seconds
+2021-02-25 14:23:35, 2021-02-25 14:23:59, label_5: The duration is 24 seconds
+2021-02-25 14:26:56, 2021-02-25 14:27:36, label_4: The duration is 40 seconds
+2021-02-25 14:27:36, 2021-02-25 14:27:40, label_1: The duration is 4 seconds
+2021-02-25 14:27:40, 2021-02-25 14:27:52, label_4: The duration is 12 seconds
+2021-02-25 14:27:52, 2021-02-25 14:28:10, label_5: The duration is 18 seconds
+2021-02-25 14:28:10, 2021-02-25 14:28:19, label_2: The duration is 9 seconds
+2021-02-25 14:28:19, 2021-02-25 14:29:21, label_4: The duration is 1 minutes 2 seconds
+2021-02-25 14:28:10, 2021-02-25 14:28:50, label_4: The duration is 40 seconds
+2021-02-25 14:28:56, 2021-02-25 14:29:15, label_5: The duration is 19 seconds
+2021-02-25 14:29:42, 2021-02-25 14:30:10, label_5: The duration is 28 seconds
+2021-02-25 14:29:21, 2021-02-25 14:29:25, label_1: The duration is 4 seconds
+2021-02-25 14:29:25, 2021-02-25 14:29:36, label_4: The duration is 11 seconds
+2021-02-25 14:29:36, 2021-02-25 14:29:38, label_1: The duration is 2 seconds
+2021-02-25 14:29:38, 2021-02-25 14:30:09, label_4: The duration is 31 seconds
+2021-02-25 14:30:09, 2021-02-25 14:30:20, label_2: The duration is 11 seconds
+2021-02-25 14:30:20, 2021-02-25 14:30:30, label_4: The duration is 10 seconds
+2021-02-25 14:30:30, 2021-02-25 14:30:41, label_1: The duration is 11 seconds
+2021-02-25 14:30:41, 2021-02-25 14:30:53, label_4: The duration is 12 seconds
+2021-02-25 14:30:53, 2021-02-25 14:34:26, label_2: The duration is 3 minutes 33 seconds
+2021-02-25 14:34:26, 2021-02-25 14:34:50, label_4: The duration is 24 seconds
+2021-02-25 14:34:50, 2021-02-25 14:35:02, label_2: The duration is 12 seconds
+2021-02-25 14:42:56, 2021-02-25 14:40:41, label_4: The duration is -135 seconds
+2021-02-25 14:40:41, 2021-02-25 14:41:10, label_5: The duration is 29 seconds
+2021-02-25 14:42:10, 2021-02-25 14:43:53, label_4: The duration is 1 minutes 43 seconds
+2021-02-25 14:43:53, 2021-02-25 14:44:32, label_2: The duration is 39 seconds
+2021-02-25 14:44:32, 2021-02-25 14:45:24, label_4: The duration is 52 seconds
+2021-02-25 14:45:24, 2021-02-25 14:46:21, label_5: The duration is 57 seconds
+2021-02-25 14:46:50, 2021-02-25 14:47:53, label_4: The duration is 1 minutes 3 seconds
+2021-02-25 14:47:53, 2021-02-25 14:52:55, label_2: The duration is 5 minutes 2 seconds
+2021-02-25 14:52:55, 2021-02-25 14:53:03, label_4: The duration is 8 seconds
+2021-02-25 14:53:03, 2021-02-25 14:53:16, label_2: The duration is 13 seconds
+2021-02-25 14:53:16, 2021-02-25 14:53:57, label_4: The duration is 41 seconds
+2021-02-25 14:53:57, 2021-02-25 14:54:20, label_5: The duration is 23 seconds
+2021-02-25 14:54:40, 2021-02-25 14:54:50, label_4: The duration is 10 seconds
+2021-02-25 14:55:05, 2021-02-25 14:55:20, label_4: The duration is 15 seconds
+2021-02-25 14:55:20, 2021-02-25 14:56:13, label_5: The duration is 53 seconds
+2021-02-25 14:56:13, 2021-02-25 14:56:31, label_4: The duration is 18 seconds
+2021-02-25 14:56:31, 2021-02-25 14:56:55, label_5: The duration is 24 seconds
+2021-02-25 14:56:55, 2021-02-25 14:58:37, label_4: The duration is 1 minutes 42 seconds
+2021-02-25 14:58:37, 2021-02-25 15:06:40, label_2: The duration is 8 minutes 3 seconds
+2021-02-25 15:06:40, 2021-02-25 15:06:50, label_4: The duration is 10 seconds
+2021-02-25 15:06:50, 2021-02-25 15:07:03, label_2: The duration is 13 seconds
+2021-02-25 15:07:03, 2021-02-25 15:07:25, label_4: The duration is 22 seconds
+2021-02-25 15:07:25, 2021-02-25 15:08:35, label_5: The duration is 1 minutes 10 seconds
+2021-02-25 15:08:35, 2021-02-25 15:09:28, label_4: The duration is 53 seconds
+2021-02-25 15:09:28, 2021-02-25 15:09:50, label_5: The duration is 22 seconds
+2021-02-25 15:09:50, 2021-02-25 15:10:23, label_4: The duration is 33 seconds
+2021-02-25 15:10:23, 2021-02-25 15:10:51, label_2: The duration is 28 seconds
+2021-02-25 15:37:39, 2021-02-25 15:37:42, label_1: The duration is 3 seconds
+2021-02-25 15:42:32, 2021-02-25 15:42:44, label_5: The duration is 12 seconds
+2021-02-25 15:43:24, 2021-02-25 15:43:38, label_5: The duration is 14 seconds
+2021-02-25 15:44:20, 2021-02-25 15:58:57, label_2: The duration is 14 minutes 37 seconds
+2021-02-25 15:59:50, 2021-02-25 16:00:20, label_5: The duration is 30 seconds
+2021-02-25 16:00:20, 2021-02-25 16:01:03, label_4: The duration is 43 seconds
+2021-02-25 16:01:03, 2021-02-25 16:06:00, label_2: The duration is 4 minutes 57 seconds
+2021-02-25 16:06:00, 2021-02-25 16:06:20, label_4: The duration is 20 seconds
+2021-02-25 16:06:20, 2021-02-25 17:55:10, label_2: The duration is 1 hours 48 minutes 50 seconds
+2021-02-25 17:55:10, 2021-02-25 18:14:06, label_4: The duration is 18 minutes 56 seconds
+2021-02-25 16:06:20, 2021-02-25 17:54:37, label_6: The duration is 1 hours 48 minutes 17 seconds
+2021-02-25 17:54:37, 2021-02-26 06:40:40, label_6: The duration is 12 hours 46 minutes 3 seconds
+2021-02-26 06:41:36, 2021-02-26 06:41:47, label_2: The duration is 11 seconds
+2021-02-26 06:41:47, 2021-02-26 06:41:56, label_4: The duration is 9 seconds
+2021-02-26 06:41:56, 2021-02-26 06:42:06, label_1: The duration is 10 seconds
+2021-02-26 06:42:06, 2021-02-26 06:42:41, label_4: The duration is 35 seconds
+2021-02-26 06:42:41, 2021-02-26 06:42:54, label_1: The duration is 13 seconds
+2021-02-26 06:42:54, 2021-02-26 06:42:58, label_4: The duration is 4 seconds
+2021-02-26 06:42:58, 2021-02-26 06:43:06, label_2: The duration is 8 seconds
+2021-02-26 06:43:06, 2021-02-26 06:43:21, label_4: The duration is 15 seconds
+2021-02-26 06:43:21, 2021-02-26 06:43:26, label_2: The duration is 5 seconds
+2021-02-26 06:43:26, 2021-02-26 06:43:34, label_4: The duration is 8 seconds
+2021-02-26 06:43:34, 2021-02-26 06:44:06, label_2: The duration is 32 seconds
+2021-02-26 06:44:06, 2021-02-26 06:44:48, label_4: The duration is 42 seconds
+2021-02-26 06:44:48, 2021-02-26 06:44:52, label_1: The duration is 4 seconds
+2021-02-26 06:44:52, 2021-02-26 06:44:59, label_4: The duration is 7 seconds
+2021-02-26 06:44:59, 2021-02-26 06:50:21, label_2: The duration is 5 minutes 22 seconds
+2021-02-26 06:50:21, 2021-02-26 06:50:45, label_4: The duration is 24 seconds
+2021-02-26 06:50:45, 2021-02-26 06:52:17, label_2: The duration is 1 minutes 32 seconds
+2021-02-26 06:52:17, 2021-02-26 06:53:03, label_4: The duration is 46 seconds
+2021-02-26 06:53:03, 2021-02-26 06:53:21, label_2: The duration is 18 seconds
+2021-02-26 06:53:21, 2021-02-26 06:54:00, label_1: The duration is 39 seconds
+2021-02-26 06:54:00, 2021-02-26 06:54:18, label_2: The duration is 18 seconds
+2021-02-26 06:54:18, 2021-02-26 06:54:56, label_4: The duration is 38 seconds
+2021-02-26 06:56:15, 2021-02-26 06:56:20, label_4: The duration is 5 seconds
+2021-02-26 06:56:20, 2021-02-26 06:58:07, label_2: The duration is 1 minutes 47 seconds
+2021-02-26 06:58:07, 2021-02-26 06:58:35, label_4: The duration is 28 seconds
+2021-02-26 06:58:35, 2021-02-26 06:58:40, label_1: The duration is 5 seconds
+2021-02-26 06:58:40, 2021-02-26 06:59:38, label_4: The duration is 58 seconds
+2021-02-26 06:59:38, 2021-02-26 06:59:44, label_1: The duration is 6 seconds
+2021-02-26 06:59:44, 2021-02-26 06:59:50, label_4: The duration is 6 seconds
+2021-02-26 06:59:50, 2021-02-26 07:00:46, label_2: The duration is 56 seconds
+2021-02-26 07:00:46, 2021-02-26 07:01:10, label_4: The duration is 24 seconds
+2021-02-26 07:01:10, 2021-02-26 07:01:15, label_2: The duration is 5 seconds
+2021-02-26 07:01:15, 2021-02-26 07:01:29, label_4: The duration is 14 seconds
+2021-02-26 07:01:29, 2021-02-26 07:01:34, label_2: The duration is 5 seconds
+2021-02-26 07:01:34, 2021-02-26 07:01:40, label_4: The duration is 6 seconds
+2021-02-26 07:01:40, 2021-02-26 07:01:56, label_2: The duration is 16 seconds
+2021-02-26 07:01:56, 2021-02-26 07:02:10, label_4: The duration is 14 seconds
+2021-02-26 07:02:10, 2021-02-26 07:03:20, label_2: The duration is 1 minutes 10 seconds
+2021-02-26 07:00:19, 2021-02-26 07:04:40, label_8: The duration is 4 minutes 21 seconds
+2021-02-26 07:03:20, 2021-02-26 07:04:20, label_4: The duration is 1 minutes 0 seconds
+2021-02-26 07:04:20, 2021-02-26 07:04:44, label_2: The duration is 24 seconds
+2021-02-26 07:04:44, 2021-02-26 07:04:50, label_4: The duration is 6 seconds
+2021-02-26 07:04:50, 2021-02-26 07:05:22, label_4: The duration is 32 seconds
+2021-02-26 07:05:22, 2021-02-26 07:05:34, label_2: The duration is 12 seconds
+2021-02-26 07:05:34, 2021-02-26 07:06:02, label_4: The duration is 28 seconds
+2021-02-26 07:06:02, 2021-02-26 07:06:51, label_5: The duration is 49 seconds
+2021-02-26 07:06:51, 2021-02-26 07:07:59, label_4: The duration is 1 minutes 8 seconds
+2021-02-26 07:07:59, 2021-02-26 07:08:26, label_5: The duration is 27 seconds
+2021-02-26 07:08:26, 2021-02-26 07:09:11, label_4: The duration is 45 seconds
+2021-02-26 07:09:11, 2021-02-26 07:09:55, label_5: The duration is 44 seconds
+2021-02-26 07:09:55, 2021-02-26 07:10:47, label_4: The duration is 52 seconds
+2021-02-26 07:10:47, 2021-02-26 07:11:38, label_2: The duration is 51 seconds
+2021-02-26 07:11:38, 2021-02-26 07:12:15, label_5: The duration is 37 seconds
+2021-02-26 07:12:15, 2021-02-26 07:13:04, label_4: The duration is 49 seconds
+2021-02-26 07:13:04, 2021-02-26 07:15:53, label_2: The duration is 2 minutes 49 seconds
+2021-02-26 07:15:53, 2021-02-26 07:17:00, label_4: The duration is 1 minutes 7 seconds
+2021-02-26 07:17:00, 2021-02-26 07:18:10, label_2: The duration is 1 minutes 10 seconds
+2021-02-26 07:18:10, 2021-02-26 07:18:19, label_4: The duration is 9 seconds
+2021-02-26 07:18:19, 2021-02-26 07:20:28, label_2: The duration is 2 minutes 9 seconds
+2021-02-26 07:17:10, 2021-02-26 07:21:41, label_8: The duration is 4 minutes 31 seconds
+2021-02-26 07:20:28, 2021-02-26 07:21:07, label_4: The duration is 39 seconds
+2021-02-26 07:21:07, 2021-02-26 07:21:24, label_2: The duration is 17 seconds
+2021-02-26 07:21:24, 2021-02-26 07:22:27, label_4: The duration is 1 minutes 3 seconds
+2021-02-26 07:22:27, 2021-02-26 07:23:45, label_2: The duration is 1 minutes 18 seconds
+2021-02-26 07:23:45, 2021-02-26 07:25:00, label_5: The duration is 1 minutes 15 seconds
+2021-02-26 07:25:00, 2021-02-26 07:25:44, label_4: The duration is 44 seconds
+2021-02-26 07:25:44, 2021-02-26 07:34:19, label_2: The duration is 8 minutes 35 seconds
+2021-02-26 07:34:19, 2021-02-26 07:34:20, label_4: The duration is 1 seconds
+2021-02-26 07:34:20, 2021-02-26 07:35:20, label_5: The duration is 1 minutes 0 seconds
+2021-02-26 07:35:20, 2021-02-26 07:36:10, label_4: The duration is 50 seconds
+2021-02-26 07:36:10, 2021-02-26 07:37:02, label_5: The duration is 52 seconds
+2021-02-26 07:37:02, 2021-02-26 07:37:57, label_4: The duration is 55 seconds
+2021-02-26 07:37:57, 2021-02-26 07:44:40, label_2: The duration is 6 minutes 43 seconds
+2021-02-26 07:44:40, 2021-02-26 07:46:05, label_5: The duration is 1 minutes 25 seconds
+2021-02-26 07:46:05, 2021-02-26 07:47:00, label_4: The duration is 55 seconds
+2021-02-26 07:47:00, 2021-02-26 07:47:14, label_4: The duration is 14 seconds
+2021-02-26 07:47:17, 2021-02-26 07:56:46, label_2: The duration is 9 minutes 29 seconds
+2021-02-26 07:56:46, 2021-02-26 07:56:56, label_4: The duration is 10 seconds
+2021-02-26 07:56:56, 2021-02-26 07:58:15, label_2: The duration is 1 minutes 19 seconds
+2021-02-26 07:58:15, 2021-02-26 07:58:27, label_4: The duration is 12 seconds
+2021-02-26 07:58:27, 2021-02-26 08:05:57, label_2: The duration is 7 minutes 30 seconds
+2021-02-26 08:05:57, 2021-02-26 08:06:43, label_4: The duration is 46 seconds
+2021-02-26 08:06:43, 2021-02-26 08:07:15, label_2: The duration is 32 seconds
+2021-02-26 08:07:15, 2021-02-26 08:07:23, label_1: The duration is 8 seconds
+2021-02-26 08:07:23, 2021-02-26 08:09:46, label_2: The duration is 2 minutes 23 seconds
+2021-02-26 08:09:46, 2021-02-26 08:10:09, label_4: The duration is 23 seconds
+2021-02-26 08:10:09, 2021-02-26 08:10:30, label_2: The duration is 21 seconds
+2021-02-26 08:10:30, 2021-02-26 08:11:30, label_4: The duration is 1 minutes 0 seconds
+2021-02-26 08:11:30, 2021-02-26 08:12:12, label_5: The duration is 42 seconds
+2021-02-26 08:12:12, 2021-02-26 08:12:48, label_4: The duration is 36 seconds
+2021-02-26 08:12:48, 2021-02-26 08:13:25, label_5: The duration is 37 seconds
+2021-02-26 08:13:25, 2021-02-26 08:14:00, label_4: The duration is 35 seconds
+2021-02-26 08:14:00, 2021-02-26 08:15:00, label_5: The duration is 1 minutes 0 seconds
+2021-02-26 08:15:00, 2021-02-26 08:15:43, label_4: The duration is 43 seconds
+2021-02-26 08:15:43, 2021-02-26 08:20:39, label_2: The duration is 4 minutes 56 seconds
+2021-02-26 08:20:39, 2021-02-26 08:20:58, label_4: The duration is 19 seconds
+2021-02-26 08:20:58, 2021-02-26 08:21:44, label_2: The duration is 46 seconds
+2021-02-26 08:21:44, 2021-02-26 08:21:48, label_4: The duration is 4 seconds
+2021-02-26 08:21:48, 2021-02-26 08:24:04, label_2: The duration is 2 minutes 16 seconds
+2021-02-26 08:45:03, 2021-02-26 08:46:00, label_4: The duration is 57 seconds
+2021-02-26 08:46:00, 2021-02-26 08:46:44, label_4: The duration is 44 seconds
+2021-02-26 08:46:44, 2021-02-26 08:49:29, label_2: The duration is 2 minutes 45 seconds
+2021-02-26 08:49:29, 2021-02-26 08:50:22, label_5: The duration is 53 seconds
+2021-02-26 08:50:22, 2021-02-26 08:50:42, label_2: The duration is 20 seconds
+2021-02-26 08:50:42, 2021-02-26 08:51:12, label_5: The duration is 30 seconds
+2021-02-26 08:51:12, 2021-02-26 08:51:54, label_4: The duration is 42 seconds
+2021-02-26 08:51:54, 2021-02-26 09:05:27, label_2: The duration is 13 minutes 33 seconds
+2021-02-26 09:05:27, 2021-02-26 09:06:03, label_5: The duration is 36 seconds
+2021-02-26 09:07:06, 2021-02-26 09:07:43, label_2: The duration is 37 seconds
+2021-02-26 09:06:03, 2021-02-26 09:07:06, label_4: The duration is 1 minutes 3 seconds
+2021-02-26 09:07:43, 2021-02-26 09:08:37, label_4: The duration is 54 seconds
+2021-02-26 09:08:37, 2021-02-26 09:08:48, label_2: The duration is 11 seconds
+2021-02-26 09:08:48, 2021-02-26 09:08:58, label_4: The duration is 10 seconds
+2021-02-26 09:08:58, 2021-02-26 09:09:06, label_2: The duration is 8 seconds
+2021-02-26 09:09:06, 2021-02-26 09:09:30, label_4: The duration is 24 seconds
+2021-02-26 09:09:30, 2021-02-26 09:09:36, label_2: The duration is 6 seconds
+2021-02-26 09:09:36, 2021-02-26 09:10:40, label_4: The duration is 1 minutes 4 seconds
+2021-02-26 09:10:40, 2021-02-26 09:10:44, label_4: The duration is 4 seconds
+2021-02-26 09:10:44, 2021-02-26 09:11:20, label_5: The duration is 36 seconds
+2021-02-26 09:11:20, 2021-02-26 09:12:05, label_4: The duration is 45 seconds
+2021-02-26 09:12:05, 2021-02-26 09:12:27, label_5: The duration is 22 seconds
+2021-02-26 09:12:27, 2021-02-26 09:13:20, label_4: The duration is 53 seconds
+2021-02-26 09:13:20, 2021-02-26 09:13:35, label_5: The duration is 15 seconds
+2021-02-26 09:13:35, 2021-02-26 09:14:28, label_4: The duration is 53 seconds
+2021-02-26 09:14:28, 2021-02-26 09:14:35, label_1: The duration is 7 seconds
+2021-02-26 09:14:35, 2021-02-26 09:14:41, label_4: The duration is 6 seconds
+2021-02-26 09:14:41, 2021-02-26 09:17:44, label_2: The duration is 3 minutes 3 seconds
+2021-02-26 09:17:44, 2021-02-26 09:18:20, label_4: The duration is 36 seconds
+2021-02-26 09:18:20, 2021-02-26 09:19:01, label_4: The duration is 41 seconds
+2021-02-26 09:19:01, 2021-02-26 09:19:26, label_4: The duration is 25 seconds
+2021-02-26 09:19:26, 2021-02-26 09:20:20, label_4: The duration is 54 seconds
+2021-02-26 09:20:20, 2021-02-26 09:20:35, label_4: The duration is 15 seconds
+2021-02-26 09:20:35, 2021-02-26 09:21:20, label_4: The duration is 45 seconds
+2021-02-26 09:21:20, 2021-02-26 09:21:46, label_4: The duration is 26 seconds
+2021-02-26 09:21:46, 2021-02-26 09:22:42, label_2: The duration is 56 seconds
+2021-02-26 09:22:42, 2021-02-26 09:24:27, label_4: The duration is 1 minutes 45 seconds
+2021-02-26 09:24:27, 2021-02-26 09:28:27, label_2: The duration is 4 minutes 0 seconds
+2021-02-26 09:27:04, 2021-02-26 09:28:30, label_6: The duration is 1 minutes 26 seconds
+2021-02-26 09:28:30, 2021-02-26 09:33:10, label_6: The duration is 4 minutes 40 seconds
+2021-02-26 09:28:27, 2021-02-26 09:30:22, label_4: The duration is 1 minutes 55 seconds
+2021-02-26 09:30:22, 2021-02-26 09:30:42, label_4: The duration is 20 seconds
+2021-02-26 09:30:42, 2021-02-26 09:31:56, label_4: The duration is 1 minutes 14 seconds
+2021-02-26 09:31:56, 2021-02-26 09:32:22, label_4: The duration is 26 seconds
+2021-02-26 09:32:22, 2021-02-26 09:50:21, label_2: The duration is 17 minutes 59 seconds
+2021-02-26 09:50:21, 2021-02-26 09:50:41, label_4: The duration is 20 seconds
+2021-02-26 09:50:41, 2021-02-26 09:51:24, label_2: The duration is 43 seconds
+2021-02-26 09:51:24, 2021-02-26 09:53:58, label_4: The duration is 2 minutes 34 seconds
+2021-02-26 09:53:58, 2021-02-26 09:55:34, label_2: The duration is 1 minutes 36 seconds
+2021-02-26 09:32:20, 2021-02-26 09:33:10, label_7: The duration is 50 seconds
+2021-02-26 09:33:10, 2021-02-26 09:44:59, label_6: The duration is 11 minutes 49 seconds
+2021-02-26 09:44:59, 2021-02-26 10:01:55, label_6: The duration is 16 minutes 56 seconds
+2021-02-26 09:46:00, 2021-02-26 09:49:10, label_11: The duration is 3 minutes 10 seconds
+2021-02-26 09:50:00, 2021-02-26 09:50:18, label_11: The duration is 18 seconds
+2021-02-26 09:50:30, 2021-02-26 09:50:50, label_11: The duration is 20 seconds
+2021-02-26 09:52:40, 2021-02-26 09:53:00, label_7: The duration is 20 seconds
+2021-02-26 09:53:58, 2021-02-26 09:54:16, label_7: The duration is 18 seconds
+2021-02-26 09:54:16, 2021-02-26 09:54:50, label_7: The duration is 34 seconds
+2021-02-26 09:54:50, 2021-02-26 09:55:25, label_7: The duration is 35 seconds
+2021-02-26 09:55:25, 2021-02-26 09:55:55, label_7: The duration is 30 seconds
+2021-02-26 09:55:34, 2021-02-26 09:56:09, label_4: The duration is 35 seconds
+2021-02-26 09:56:09, 2021-02-26 09:56:25, label_4: The duration is 16 seconds
+2021-02-26 09:56:25, 2021-02-26 09:57:27, label_4: The duration is 1 minutes 2 seconds
+2021-02-26 09:57:27, 2021-02-26 09:57:50, label_4: The duration is 23 seconds
+2021-02-26 09:57:50, 2021-02-26 09:59:20, label_2: The duration is 1 minutes 30 seconds
+2021-02-26 09:57:52, 2021-02-26 09:58:24, label_7: The duration is 32 seconds
+2021-02-26 09:58:24, 2021-02-26 09:58:50, label_7: The duration is 26 seconds
+2021-02-26 09:58:50, 2021-02-26 09:59:10, label_7: The duration is 20 seconds
+2021-02-26 09:59:20, 2021-02-26 09:59:30, label_4: The duration is 10 seconds
+2021-02-26 09:59:30, 2021-02-26 10:00:00, label_4: The duration is 30 seconds
+2021-02-26 10:00:00, 2021-02-26 10:00:25, label_4: The duration is 25 seconds
+2021-02-26 10:00:25, 2021-02-26 10:00:47, label_4: The duration is 22 seconds
+2021-02-26 10:00:47, 2021-02-26 10:01:10, label_4: The duration is 23 seconds
+2021-02-26 10:01:10, 2021-02-26 10:01:37, label_4: The duration is 27 seconds
+2021-02-26 10:01:37, 2021-02-26 10:02:07, label_4: The duration is 30 seconds
+2021-02-26 10:02:07, 2021-02-26 10:36:57, label_2: The duration is 34 minutes 50 seconds
+2021-02-26 10:01:55, 2021-02-26 10:04:45, label_6: The duration is 2 minutes 50 seconds
+2021-02-26 10:04:45, 2021-02-26 10:05:15, label_6: The duration is 30 seconds
+2021-02-26 10:04:48, 2021-02-26 10:05:15, label_7: The duration is 27 seconds
+2021-02-26 10:05:15, 2021-02-26 10:36:57, label_6: The duration is 31 minutes 42 seconds
+2021-02-26 11:48:30, 2021-02-26 12:58:30, label_6: The duration is 1 hours 10 minutes 0 seconds
+2021-02-26 11:48:30, 2021-02-26 11:57:00, label_11: The duration is 8 minutes 30 seconds
+2021-02-26 11:57:40, 2021-02-26 12:00:27, label_11: The duration is 2 minutes 47 seconds
+2021-02-26 11:58:36, 2021-02-26 11:58:59, label_4: The duration is 23 seconds
+2021-02-26 11:58:59, 2021-02-26 11:59:02, label_1: The duration is 3 seconds
+2021-02-26 11:59:02, 2021-02-26 12:01:00, label_4: The duration is 1 minutes 58 seconds
+2021-02-26 12:01:00, 2021-02-26 12:01:30, label_4: The duration is 30 seconds
+2021-02-26 12:01:30, 2021-02-26 12:02:01, label_4: The duration is 31 seconds
+2021-02-26 12:02:01, 2021-02-26 12:02:06, label_1: The duration is 5 seconds
+2021-02-26 12:02:06, 2021-02-26 12:02:37, label_4: The duration is 31 seconds
+2021-02-26 12:02:37, 2021-02-26 12:02:41, label_1: The duration is 4 seconds
+2021-02-26 12:02:55, 2021-02-26 12:02:59, label_1: The duration is 4 seconds
+2021-02-26 12:02:59, 2021-02-26 12:04:00, label_4: The duration is 1 minutes 1 seconds
+2021-02-26 12:01:27, 2021-02-26 12:06:26, label_11: The duration is 4 minutes 59 seconds
+2021-02-26 12:06:36, 2021-02-26 12:06:52, label_11: The duration is 16 seconds
+2021-02-26 12:11:42, 2021-02-26 12:16:35, label_11: The duration is 4 minutes 53 seconds
+2021-02-26 12:17:22, 2021-02-26 12:17:30, label_11: The duration is 8 seconds
+2021-02-26 12:20:53, 2021-02-26 12:21:34, label_11: The duration is 41 seconds
+2021-02-26 12:21:50, 2021-02-26 12:24:05, label_11: The duration is 2 minutes 15 seconds
+2021-02-26 12:24:45, 2021-02-26 12:24:52, label_11: The duration is 7 seconds
+2021-02-26 12:25:09, 2021-02-26 12:25:25, label_11: The duration is 16 seconds
+2021-02-26 12:27:32, 2021-02-26 12:30:02, label_11: The duration is 2 minutes 30 seconds
+2021-02-26 12:31:31, 2021-02-26 12:31:42, label_11: The duration is 11 seconds
+2021-02-26 12:33:07, 2021-02-26 12:33:30, label_11: The duration is 23 seconds
+2021-02-26 12:34:50, 2021-02-26 12:38:05, label_11: The duration is 3 minutes 15 seconds
+2021-02-26 12:38:32, 2021-02-26 12:38:46, label_11: The duration is 14 seconds
+2021-02-26 12:43:00, 2021-02-26 12:44:02, label_11: The duration is 1 minutes 2 seconds
+2021-02-26 12:44:47, 2021-02-26 12:46:32, label_11: The duration is 1 minutes 45 seconds
+2021-02-26 12:48:03, 2021-02-26 12:48:28, label_11: The duration is 25 seconds
+2021-02-26 12:51:30, 2021-02-26 12:52:03, label_11: The duration is 33 seconds
+2021-02-26 12:58:30, 2021-02-26 13:21:34, label_6: The duration is 23 minutes 4 seconds
+2021-02-26 13:21:34, 2021-02-26 14:00:00, label_6: The duration is 38 minutes 26 seconds
+2021-02-26 13:24:50, 2021-02-26 13:27:20, label_11: The duration is 2 minutes 30 seconds
+2021-02-26 13:34:04, 2021-02-26 13:34:25, label_11: The duration is 21 seconds
+2021-02-26 13:37:40, 2021-02-26 13:38:18, label_11: The duration is 38 seconds
+2021-02-26 13:41:18, 2021-02-26 13:42:32, label_11: The duration is 1 minutes 14 seconds
+2021-02-26 13:43:04, 2021-02-26 13:46:15, label_11: The duration is 3 minutes 11 seconds
+
+
+
+
+
+# for model in model_directory
+for model_name in os.listdir(MODELS_PATH):
+    # if the name does not include LOCATION, continue
+    if str(LOCATION) not in model_name:
+        continue
+
+    # else: load the model, print the name
+    model = keras.models.load_model(os.path.join(MODELS_PATH, model_name))
+    print(f"Working with the model: {model_name}")
+    
+    # predict on X_test, predict on Normal hours (25), predict on Intrusions
+    X_test_decoded = model.predict(X_test)
+    X_test_error = abs(X_test - X_test_decoded)
+    X_test_error_max = np.max(X_test_error, axis=1).squeeze()
+
+    decoded_test_silent = model.predict(silent_test)
+    silent_test_error = abs(silent_test - decoded_test_silent)
+    silent_test_error_max = np.max(silent_test_error, axis=1).squeeze()
+
+    decoded_test_intrusion = model.predict(intrusion_test_data)
+    intrusion_test_error = abs(intrusion_test_data - decoded_test_intrusion)
+    max_intrusion_test_error = np.max(intrusion_test_error, axis=1).squeeze()
+    
+
+    # make data_frame
+    X_test_meta_data = pd.DataFrame({'event': np.array([f"Silent_sample_{i}" for i in range(X_test_error_max.shape[0])]), 
+                                 'maxAE': X_test_error_max, 
+                                 'true_label': np.zeros(X_test_error_max.shape, dtype=int), 
+                                 'includes_location': np.ones(X_test_error_max.shape, dtype=int)})
+                                 
+    silent_meta_data = pd.DataFrame({'event': silent_X_test_files, 
+                                 'maxAE': silent_test_error_max, 
+                                 'true_label': np.zeros(silent_test_error_max.shape, dtype=int),
+                                 'includes_location': np.ones(silent_test_error_max.shape, dtype=int)})
+                                 
+    event_row_new = np.copy(event_row)
+    event_row_new[:, 1] = (np.char.find(event_row[:, 1], str(LOCATION)) != -1).astype(int)
+    intrusions_meta_data = pd.DataFrame({'event': event_row_new[:, 0], 
+                                    'maxAE': max_intrusion_test_error, 
+                                    'true_label': np.ones(max_intrusion_test_error.shape, dtype=int), 
+                                    'includes_location': event_row_new[:, 1].astype(int)})
+    intrusions_meta_data = intrusions_meta_data.groupby(['event'], as_index=False).max()
+    combined_data_frame = pd.concat([X_test_meta_data, silent_meta_data, intrusions_meta_data], ignore_index=True)
+    
+    # auc roc method
+    roc_result_harsh = compute_roc_auc(combined_data_frame, train_error, True)
+    roc_result_soft = compute_roc_auc(combined_data_frame, train_error, False)
+    plot_roc_curves(roc_result_harsh, roc_result_soft)
+
+    threshold_soft = roc_result_soft['optimal_threshold']
+    threshold_harsh = roc_result_harsh['optimal_threshold']
+    # confusion matrices
+
+    TP_h, FP_h, FN_h, TN_h = get_performance(combined_data_frame, threshold_harsh, True)
+    TP_s, FP_s, FN_s, TN_s = get_performance(combined_data_frame, threshold_soft, False)
+    plot_confusion_matrix(TP_h, FP_h, FN_h, TN_h)
+    plot_confusion_matrix(TP_s, FP_s, FN_s, TN_s)

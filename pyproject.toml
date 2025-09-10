@@ -1,0 +1,33 @@
+[build-system]
+requires = [ "setuptools",]
+build-backend = "setuptools.build_meta"
+
+[project]
+requires-python = ">=3.9"
+name = "fluves"
+readme = "README.md"
+dynamic = [ "version",]
+dependencies = [ "ipython>=8.10", "jupyterlab>=3.0", "notebook", "kedro~=0.19.12",]
+
+[project.scripts]
+fluves = "fluves.__main__:main"
+
+[tool.kedro]
+package_name = "fluves"
+project_name = "fluves"
+kedro_init_version = "0.19.12"
+tools = "['Data Structure']"
+example_pipeline = "False"
+source_dir = "src"
+
+[project.entry-points."kedro.hooks"]
+
+[tool.setuptools.dynamic.version]
+attr = "fluves.__version__"
+
+[tool.setuptools.packages.find]
+where = [ "src",]
+namespaces = false
+
+[tool.kedro_telemetry]
+project_id = "fce54e681d6b492d9946c6bde5939261"

@@ -1,0 +1,164 @@
+# Here you can define all your datasets by using simple YAML syntax.
+#
+# Documentation for this file format can be found in "The Data Catalog"
+# Link: https://docs.kedro.org/en/stable/data/data_catalog.html
+
+events:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/events_table.csv
+  load_args:
+    parse_dates: ['start', 'end']
+  metadata:
+    kedro-viz:
+      layer: raw
+
+fluves:
+  type: fluves.datasets.fluves_dataset.FluvesDataset
+  filepath: data/01_raw/pokemon-images-and-types/images/images/pikachu.png
+
+fluves_bin:
+  type: partitions.PartitionedDataset
+  dataset: fluves.datasets.fluves_dataset.FluvesDataset
+  path: "${oc.env:FLUVES_BASE_DATA_DIR}/19"
+  filename_suffix: ".bin"
+  metadata:
+    kedro-viz:
+      layer: raw
+
+"fluves_{day}": 
+  type: partitions.PartitionedDataset
+  dataset: fluves.datasets.fluves_dataset.FluvesDataset
+  path: "${oc.env:FLUVES_BASE_DATA_DIR}/{day}"
+  filename_suffix: ".bin"
+  metadata:
+    kedro-viz:
+      layer: raw
+
+"output_plot_{day}":
+  type: matplotlib.MatplotlibWriter
+  filepath: "data/08_reporting/fluves_soundlevel/fluves_soundlevel_{day}.png"
+  save_args:
+    format: png
+  versioned: True
+  metadata:
+    kedro-viz:
+      layer: reporting
+
+"sound_level_pd_dataset_{day}":
+  type: pandas.ParquetDataset
+  filepath: "data/02_intermediate/soundlevel_{day}.parquet"
+  metadata:
+    kedro-viz:
+      layer: raw
+
+"sound_level_dataset_{day}":
+  type: fluves.datasets.numpy_dataset.NumpyDataset
+  filepath: "data/02_intermediate/soundlevel_{day}.npy"
+  metadata:
+    kedro-viz:
+      layer: raw
+
+"sound_level_xdataset_{day}":
+  type: fluves.datasets.xarray_dataset.XarrayDataset
+  filepath: "data/02_intermediate/soundlevel_{day}.nc"
+  metadata:
+    kedro-viz:
+      layer: raw
+
+"spectogram_{variable}_xdataset_{day}":
+  type: fluves.datasets.xarray_dataset.XarrayDataset
+  filepath: "data/02_intermediate/spectogram_{variable}_{day}.nc"
+  metadata:
+    kedro-viz:
+      layer: raw
+
+sl_model_input: 
+  type: fluves.datasets.numpy_dataset.NumpyDataset
+  filepath: data/05_model_input/soundlevel_normal.npy
+  metadata:
+    kedro-viz:
+      layer: modeling
+
+keras_model: 
+  type: fluves.datasets.keras_model_dataset.KerasModelDataset
+  filepath: data/06_models/keras_model.keras
+  metadata:
+    kedro-viz:
+      layer: modeling
+
+keras_model2: 
+  type: fluves.datasets.keras_model_dataset.KerasModelDataset
+  filepath: data/06_models/keras_model2.keras
+  metadata:
+    kedro-viz:
+      layer: modeling
+
+keras_model3: 
+  type: fluves.datasets.keras_model_dataset.KerasModelDataset
+  filepath: data/06_models/keras_model3.keras
+  metadata:
+    kedro-viz:
+      layer: modeling
+
+train_parameters:
+  type: json.JSONDataset
+  filepath: data/07_model_output/train.json
+  metadata:
+    kedro-viz:
+      layer: modeling
+
+train_data: 
+  type: fluves.datasets.numpy_dataset.NumpyDataset
+  filepath: data/05_model_input/train_data.npy
+  metadata:
+    kedro-viz:
+      layer: modeling
+
+loss:
+  type: matplotlib.MatplotlibWriter
+  filepath: "data/08_reporting/model/loss.png"
+  save_args:
+    format: png
+  metadata:
+    kedro-viz:
+      layer: modeling
+
+thresholds: 
+  type: fluves.datasets.numpy_dataset.NumpyDataset
+  filepath: data/07_model_output/thresholds.npy
+  metadata:
+    kedro-viz:
+      layer: modeling
+
+reconstructed_data: 
+  type: fluves.datasets.numpy_dataset.NumpyDataset
+  filepath: data/07_model_output/reconstructed_data.npy
+  metadata:
+    kedro-viz:
+      layer: modeling
+
+reconstructed_error: 
+  type: fluves.datasets.numpy_dataset.NumpyDataset
+  filepath: data/07_model_output/reconstructed_error.npy
+  metadata:
+    kedro-viz:
+      layer: modeling
+
+org_reconstr:
+  type: matplotlib.MatplotlibWriter
+  filepath: "data/08_reporting/model/org_reconstructed.png"
+  save_args:
+    format: png
+  metadata:
+    kedro-viz:
+      layer: modeling
+
+test_reconstr:
+  type: matplotlib.MatplotlibWriter
+  filepath: "data/08_reporting/model/test_reconstructed.png"
+  save_args:
+    format: png
+  metadata:
+    kedro-viz:
+      layer: modeling
+

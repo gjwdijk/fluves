@@ -1,0 +1,18 @@
+base_dir: "/Users/gjwdijk/Texcel Dropbox/Gert-Jan Van Dijk/Thunderbyte Team Folder/Fluves/19"
+
+start_date_19: "2021-02-19 10:00:00+00"
+end_date_19: "2021-02-19 10:04:00+00"
+start_date_25: "2021-02-25 11:55:00+00"
+end_date_25: "2021-02-25 12:00:00+00"
+
+variable: "strain"
+
+poi: 
+  start: 1260
+  end: 6950
+  increment: 10
+
+poi2: 
+  start: 4210
+  end: 4270
+  increment: 10
