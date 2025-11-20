@@ -1,3 +1,4 @@
+absl-py==2.4.0
 aiofiles==24.1.0
 annotated-types==0.7.0
 antlr4-python3-runtime==4.9.3
@@ -8,6 +9,7 @@ argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
 arrow==1.3.0
 asttokens==3.0.0
+astunparse==1.6.3
 async-lru==2.0.5
 attrs==25.3.0
 babel==2.17.0
@@ -38,12 +40,16 @@ dynaconf==3.2.10
 executing==2.2.0
 fastapi==0.115.11
 fastjsonschema==2.21.1
+flatbuffers==25.12.19
 fonttools==4.56.0
 fqdn==1.5.1
 fsspec==2025.3.0
+gast==0.7.0
 gitdb==4.0.12
 GitPython==3.1.44
+google-pasta==0.2.0
 graphql-core==3.2.6
+grpcio==1.80.0
 h11==0.14.0
 h5py==3.13.0
 httpcore==1.0.7
@@ -58,6 +64,7 @@ ipython_pygments_lexers==1.1.1
 isoduration==20.11.0
 jedi==0.19.2
 Jinja2==3.1.6
+joblib==1.5.3
 json5==0.10.0
 jsonpointer==3.0.0
 jsonschema==4.23.0
@@ -75,8 +82,10 @@ kedro==0.19.12
 kedro-datasets==6.0.0
 kedro-telemetry==0.6.2
 kedro-viz==11.0.0
+keras==3.14.1
 kiwisolver==1.4.8
 lazy_loader==0.4
+libclang==18.1.1
 llvmlite==0.44.0
 locket==1.0.0
 markdown-it-py==3.0.0
@@ -85,8 +94,10 @@ matplotlib==3.10.1
 matplotlib-inline==0.1.7
 mdurl==0.1.2
 mistune==3.1.3
+ml_dtypes==0.5.4
 more-itertools==10.6.0
 msgpack==1.1.0
+namex==0.1.0
 narwhals==1.31.0
 nbclient==0.10.2
 nbconvert==7.16.6
@@ -99,6 +110,8 @@ notebook_shim==0.2.4
 numba==0.61.0
 numpy==2.1.3
 omegaconf==2.3.0
+opt_einsum==3.4.0
+optree==0.19.1
 orjson==3.10.15
 overrides==7.7.0
 packaging==24.2
@@ -116,6 +129,7 @@ pluggy==1.5.0
 pre_commit_hooks==5.0.0
 prometheus_client==0.21.1
 prompt_toolkit==3.0.50
+protobuf==7.35.0
 psutil==7.0.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
@@ -123,7 +137,7 @@ pycparser==2.22
 pydantic==2.10.6
 pydantic_core==2.27.2
 Pygments==2.19.1
-pyhdas @ file:///Users/gjwdijk/Devlopment/LIME/Fluves/pyhdas-0.4.4-py3-none-any.whl#sha256=a6cc76fab339325188b4de6c5f65ab08c253bd31153ea10a48be4b299c0ca4d2
+pyhdas @ file:///Users/gjwdijk/Devlopment/kedro/fluves/pyhdas-0.4.4-py3-none-any.whl#sha256=a6cc76fab339325188b4de6c5f65ab08c253bd31153ea10a48be4b299c0ca4d2
 pyparsing==3.2.1
 pyproject_hooks==1.2.0
 python-dateutil==2.9.0.post0
@@ -143,6 +157,7 @@ rope==1.13.0
 rpds-py==0.23.1
 ruamel.yaml==0.18.10
 ruamel.yaml.clib==0.2.12
+scikit-learn==1.8.0
 scipy==1.15.2
 secure==1.0.1
 Send2Trash==1.8.3
@@ -157,8 +172,11 @@ stack-data==0.6.3
 starlette==0.46.1
 strawberry-graphql==0.262.5
 tblib==3.0.0
+tensorflow==2.21.0
+termcolor==3.3.0
 terminado==0.18.1
 text-unidecode==1.3
+threadpoolctl==3.6.0
 tinycss2==1.4.0
 toml==0.10.2
 toolz==1.0.0
@@ -177,6 +195,8 @@ webcolors==24.11.1
 webencodings==0.5.1
 websocket-client==1.8.0
 websockets==15.0.1
+wheel==0.47.0
+wrapt==2.2.0
 xarray==2025.3.0
 zict==3.0.0
 zipp==3.21.0
